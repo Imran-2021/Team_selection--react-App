@@ -6,11 +6,11 @@ const Cart = (props) => {
     return (
         <div className="cart">
             <p>Total Selected Player :- {length}</p>
-            <p>Total Cost :- {cost}</p>
+            <p>Total Cost :- ${cost}</p>
             <p>All selected player Name :-</p>
             <ul> 
             {
-                props.plyer.map(x=><li>{x.name}</li>)
+                props.plyer.map((x,y)=><li key={y}>{x.name}</li>)
             }
             </ul>
         </div>

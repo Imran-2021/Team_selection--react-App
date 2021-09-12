@@ -15,7 +15,7 @@ function App() {
      <div className="grid">
             <div className="inner-grid">
               {
-                  player.map(x=> <Players handleEvent={handleEvent}  player={x}/>)
+                  player.map((x,idx)=> <Players key={idx} handleEvent={handleEvent}  player={x}/>)
               }
             </div>
           <div>
