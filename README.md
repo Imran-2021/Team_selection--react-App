@@ -1,2 +1,3 @@
-![Screenshot 2021-09-18 022132](https://user-images.githubusercontent.com/76750607/133848993-00cfa654-395e-4a37-badb-6a6895219c2c.png)
+
 Live Link - https://team-selectionn.netlify.app/  
+![Screenshot 2021-09-18 022132](https://user-images.githubusercontent.com/76750607/133849055-837c556e-0f40-409a-8a4e-1ff50cc43fe4.png)
